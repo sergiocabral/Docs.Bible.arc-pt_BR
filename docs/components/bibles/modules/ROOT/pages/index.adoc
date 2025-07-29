@@ -1,4 +1,71 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |arc
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |2009
+|📖 Título  |Almeida Revista e Corrigida
+|===
+
+A *Almeida Revista e Corrigida* (sigla informal: **ARC**) é uma das revisões clássicas da tradução de João Ferreira de Almeida. Sua edição base foi publicada em **1898**, em Lisboa, sendo por décadas adotada no Brasil como versão padrão. É considerada por muitos a "King James em português" por seu estilo formal e amplo uso histórico.
+
+== Base textual
+
+* **Antigo Testamento**: Texto Massorético
+* **Novo Testamento**: Textus Receptus — texto usado pelos reformadores e pelo próprio Almeida.
+
+== Método de tradução
+
+* Tradução por **equivalência formal**: palavra por palavra.
+* Palavras adicionadas por clareza geralmente aparecem em *itálico*.
+* Preserva a estrutura clássica: sintaxe formal, pronomes como “tu” e “vós”, vocabulário reverente.
+
+== Principais edições
+
+* **1898** – Primeira grande revisão da tradução de Almeida, publicada em Lisboa, com linguagem e ortografia de Portugal.
+* **1969** – Revisão brasileira adaptando a ortografia ao português do Brasil. Conhecida informalmente como *RC69*.
+* **1995** – Revisão feita pela Sociedade Bíblica do Brasil com ajustes em pontuação, padronização gráfica e fluidez.
+* **2009** – Atualização ortográfica de acordo com o novo Acordo da Língua Portuguesa. Não alterou o conteúdo bíblico, apenas a grafia.
+
+== Características principais
+
+* Linguagem formal, erudita e reverente.
+* Uso consistente de pronomes antigos como “tu” e “vós”.
+* Frases longas e estrutura semelhante ao hebraico e grego originais.
+* Salmos e textos poéticos mantêm acrostismos (ex.: Salmo 119).
+* Não utiliza colchetes para indicar variantes críticas.
+
+== Diferenças em relação à ARA e outras versões
+
+* A **ARA (1959/1993)** usa o texto crítico no Novo Testamento e linguagem mais moderna.
+* A **ACF (1994)** busca restaurar a fidelidade da ARC original, rejeitando influências textuais críticas.
+* Outras versões como **AA, NAA, A21** derivam da ARC ou ARA, mas com foco em acessibilidade moderna ou crítica textual.
+
+== Exemplos comparativos
+
+* *Mateus 6:9*
+  - ARC: “Pai nosso, que estás nos céus, santificado seja o teu nome.”
+  - ARA e NAA usam pontuação e fluidez ligeiramente diferentes.
+
+* *Gênesis 1:1*
+  - ARC: mantém estrutura e vocabulário tradicionais.
+  - ARA/NAA: reestruturam frases para fluidez contemporânea.
+
+== Fontes e referências
+
+* Bíblia Online – ARC: https://www.bibliaonline.com.br/arc
+* Wikipédia – Almeida Revista e Corrigida: https://pt.wikipedia.org/wiki/Almeida_Revista_e_Corrigida
+* Sociedade Bíblica do Brasil – ARC: https://www.sbb.org.br/almeida-revista-e-corrigida
+* Comparação ARC × ARA (Scribd): https://pt.scribd.com/document/685850361/DIFERENCAS-ENTRE-A-REVISTA-E-ATUALIZADA-E-A-REVISTA-E-CORRIGIDA
+* Artigo informativo: https://armazemdabiblia.pt/pt/noticias/versoes-da-biblia-almeida-and-ndashqual-a-diferenca-e-como-escolher
+
+== Observações finais
+
+A sigla **ARC** não faz parte do nome oficial da Bíblia, mas é amplamente usada para distinguir esta versão da ARA e de outras revisões.
+A ARC é ideal para leitores que valorizam a tradição textual e a linguagem clássica da tradução de João Ferreira de Almeida.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
