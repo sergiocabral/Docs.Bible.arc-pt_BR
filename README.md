@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Almeida Revista e Corrigida (arc, pt_BR, 2009)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://arc-pt-br.bible.raciocinios.com.br/
 
 ---
 
