@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-113-0]]
+=== Salmos, 113
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v19-113-1]]
+
+^<<v19-113-1,1>>^ Louvai ao SENHOR! Louvai, servos do SENHOR, louvai o nome do SENHOR.
+
+[[v19-113-2]]
+
+^<<v19-113-2,2>>^ Seja bendito o nome do SENHOR, desde agora e para sempre.
+
+[[v19-113-3]]
+
+^<<v19-113-3,3>>^ Desde o nascimento do sol até ao ocaso, seja  louvado o nome do SENHOR.
+
+[[v19-113-4]]
+
+^<<v19-113-4,4>>^ Exaltado está  o SENHOR, acima de todas as nações, e  a sua glória, sobre os céus.
+
+[[v19-113-5]]
+
+^<<v19-113-5,5>>^ Quem é  como o SENHOR, nosso Deus, que habita nas alturas;
+
+[[v19-113-6]]
+
+^<<v19-113-6,6>>^ que se curva para ver o que está  nos céus e na terra;
+
+[[v19-113-7]]
+
+^<<v19-113-7,7>>^ que do pó levanta o pequeno e, do  monturo, ergue o necessitado,
+
+[[v19-113-8]]
+
+^<<v19-113-8,8>>^ para o fazer assentar com os príncipes, sim, com os príncipes do seu povo;
+
+[[v19-113-9]]
+
+^<<v19-113-9,9>>^ que faz com que a mulher estéril habite em família e seja  alegre mãe de filhos? Louvai ao SENHOR!
+
+'''
+
+xref:019-salmos/019-salmos-112.adoc#v19-112-0[&#60; Capítulo Anterior] | <<v19-113-0,Topo>> | xref:019-salmos/019-salmos-114.adoc#v19-114-0[Próximo Capítulo &#62;]

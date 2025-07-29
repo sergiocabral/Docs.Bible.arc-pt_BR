@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== 1 Crônicas, 8
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ E Benjamim gerou a Belá, seu primogênito, a Asbel, o segundo e a Aará, o terceiro,
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ e a Noá, o quarto, e a Rafa, o quinto,
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ e Belá teve estes  filhos: Adar, e Gera, e Abiúde,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ e Abisua, e Naamã, e Aoá,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ e Gera, e Sefufã, e Hurão.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ E estes foram  os filhos de Eúde, que foram chefes dos pais dos moradores de Geba, e os transportados a Manaate:
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ Naamã, e Aías, e Gera; a estes Gera transportou e gerou a Uzá e a Aiude.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ E Saaraim (depois de ter repudiado suas mulheres Husim e Baara), na terra de Moabe, gerou filhos,
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ e de Hodes, sua mulher, gerou a Jobabe, e a Zíbia, e a Messa, e a Malcã,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ e a Jeús, e a Saquias, e a Mirma; estes foram  seus filhos, chefes dos pais.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ E de Husim gerou a Abitube e a Elpaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ E foram  os filhos de Elpaal: Héber, e Misã, e Semede; este edificou a Ono, e a Lode, e os lugares da sua jurisdição.
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ E Berias e Sema foram  cabeças dos pais dos moradores de Aijalom; estes afugentaram os moradores de Gate.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ E Aiô, e Sasaque, e Jeremote,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ e Zebadias, e Arade, e Éder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ e Micael, e Ispa, e Joá foram  filhos de Berias.
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ E Zebadias, e Mesulão, e Hizqui, e Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ e Ismerai, e Izlias, e Jobabe, filhos de Elpaal.
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ E Jaquim, e Zicri, e Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ e Elienai, e Ziletai, e Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ e Adaías e Beraías, e Sinrate, filhos de Simei.
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ E Ispã, e Éber, e Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ e Abdom, e Zicri, e Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ e Hananias, e Elão, e Antotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ e Ifdeias, e Penuel, filhos de Sasaque.
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ E Sanserai, e Searias, e Atalias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ e Jaaresias, e Elias, e Zicri, filhos de Jeroão.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ Estes foram  chefes dos pais, segundo as suas gerações, e  habitaram em Jerusalém.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ E em Gibeão habitou o pai de Gibeão; e era  o nome de sua mulher Maaca,
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ e seu filho primogênito Abdom, depois Zur, e Quis, e Baal, e Nadabe,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ e Gedor, e Aiô, e Zequer.
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ E Miclote gerou a Simeia, e também estes, defronte de seus irmãos, habitaram em Jerusalém com seus irmãos.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ E Ner gerou a Quis, e Quis gerou a Saul; e Saul gerou a Jônatas, e a Malquisua, e a Abinadabe, e a Esbaal.
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ E filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica.
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ E os filhos de Mica foram:  Pitom, e Meleque, e Tareia, e Acaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ E Acaz gerou a Jeoada, e Jeoada gerou a Alemete, e a Azmavete, e a Zinri; e Zinri gerou a Mosa,
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ e Mosa gerou a Bineá, cujo filho foi Rafa, cujo filho foi Eleasa, cujo filho foi Azel.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ E teve Azel seis filhos, e estes foram  os seus nomes: Azricão, e Bocru, e Ismael, e Searias, e Obadias, e Hanã; todos estes foram  filhos de Azel.
+
+[[v13-8-39]]
+
+^<<v13-8-39,39>>^ E os filhos de Eseque, seu irmão: Ulão, seu primogênito, Jeús, o segundo, e Elifelete, o terceiro.
+
+[[v13-8-40]]
+
+^<<v13-8-40,40>>^ E foram  os filhos de Ulão varões heróis, valentes, e flecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinquenta; todos estes foram dos filhos de Benjamim.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

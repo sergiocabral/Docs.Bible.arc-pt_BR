@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v4-27-0]]
+=== Números, 27
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v4-27-1]]
+
+^<<v4-27-1,1>>^ E chegaram as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, entre as famílias de Manassés, filho de José (e estes são  os nomes de suas filhas: Macla, Noa, Hogla, Milca e Tirza);
+
+[[v4-27-2]]
+
+^<<v4-27-2,2>>^ e puseram-se diante de Moisés, e diante de Eleazar, o sacerdote, e diante dos príncipes e de toda a congregação, à porta da tenda da congregação, dizendo:
+
+[[v4-27-3]]
+
+^<<v4-27-3,3>>^ Nosso pai morreu no deserto e não estava entre a congregação dos que se congregaram contra o SENHOR na congregação de Corá; mas morreu no seu próprio pecado e não teve filhos.
+
+[[v4-27-4]]
+
+^<<v4-27-4,4>>^ Por que se tiraria o nome de nosso pai do meio da sua família, porquanto não teve filhos? Dá-nos possessão entre os irmãos de nosso pai.
+
+[[v4-27-5]]
+
+^<<v4-27-5,5>>^ E Moisés levou a sua causa perante o SENHOR.
+
+[[v4-27-6]]
+
+^<<v4-27-6,6>>^ E falou o SENHOR a Moisés, dizendo:
+
+[[v4-27-7]]
+
+^<<v4-27-7,7>>^ As filhas de Zelofeade falam retamente; certamente lhes darás possessão de herança entre os irmãos de seu pai; e a herança de seu pai farás passar a elas.
+
+[[v4-27-8]]
+
+^<<v4-27-8,8>>^ E falarás aos filhos de Israel, dizendo: Quando alguém morrer e não tiver filho, então, fareis passar a sua herança a sua filha.
+
+[[v4-27-9]]
+
+^<<v4-27-9,9>>^ E, se não tiver filha, então, a sua herança dareis a seus irmãos.
+
+[[v4-27-10]]
+
+^<<v4-27-10,10>>^ Porém, se não tiver irmãos, então, dareis a sua herança aos irmãos de seu pai.
+
+[[v4-27-11]]
+
+^<<v4-27-11,11>>^ Se também seu pai não tiver irmãos, então, a sua herança dareis a seu parente, àquele que  lhe for  o mais chegado da sua família, para que a possua; isto aos filhos de Israel será por estatuto de direito, como o SENHOR ordenou a Moisés.
+
+[[v4-27-12]]
+
+^<<v4-27-12,12>>^ Depois, disse o SENHOR a Moisés: Sobe este monte Abarim e vê a terra que tenho dado aos filhos de Israel.
+
+[[v4-27-13]]
+
+^<<v4-27-13,13>>^ E, havendo-a visto, então, serás recolhido ao teu povo, assim como foi recolhido teu irmão Arão;
+
+[[v4-27-14]]
+
+^<<v4-27-14,14>>^ porquanto rebeldes fostes no deserto de Zim, na contenda da congregação, ao meu mandado de me santificardes nas águas diante dos seus olhos. (Estas são  as águas de Meribá de Cades, no deserto de Zim.)
+
+[[v4-27-15]]
+
+^<<v4-27-15,15>>^ Então, falou Moisés ao SENHOR, dizendo:
+
+[[v4-27-16]]
+
+^<<v4-27-16,16>>^ O SENHOR, Deus dos espíritos de toda carne, ponha um homem sobre esta congregação,
+
+[[v4-27-17]]
+
+^<<v4-27-17,17>>^ que saia diante deles, e que entre diante deles, e que os faça sair, e que os faça entrar; para que a congregação do SENHOR não seja como ovelhas que não têm pastor.
+
+[[v4-27-18]]
+
+^<<v4-27-18,18>>^ Então, disse o SENHOR a Moisés: Toma para ti a Josué, filho de Num, homem em quem há  o Espírito, e põe a tua mão sobre ele.
+
+[[v4-27-19]]
+
+^<<v4-27-19,19>>^ E apresenta-o perante Eleazar, o sacerdote, e perante toda a congregação, e dá-lhe mandamentos aos olhos deles,
+
+[[v4-27-20]]
+
+^<<v4-27-20,20>>^ e põe sobre ele da tua glória, para que lhe  obedeça toda a congregação dos filhos de Israel.
+
+[[v4-27-21]]
+
+^<<v4-27-21,21>>^ E se porá perante Eleazar, o sacerdote, o qual por ele consultará, segundo o juízo de Urim, perante o SENHOR; conforme o seu dito, sairão; e, conforme o seu dito, entrarão, ele, e todos os filhos de Israel com ele, e toda a congregação.
+
+[[v4-27-22]]
+
+^<<v4-27-22,22>>^ E fez Moisés como o SENHOR lhe ordenara; porque tomou a Josué e apresentou-o perante Eleazar, o sacerdote, e perante toda a congregação;
+
+[[v4-27-23]]
+
+^<<v4-27-23,23>>^ e sobre ele pôs as mãos e lhe deu mandamentos, como o SENHOR ordenara pela mão de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-026.adoc#v4-26-0[&#60; Capítulo Anterior] | <<v4-27-0,Topo>> | xref:004-numeros/004-numeros-028.adoc#v4-28-0[Próximo Capítulo &#62;]

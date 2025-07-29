@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-20-0]]
+=== Isaías, 20
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v23-20-1]]
+
+^<<v23-20-1,1>>^ No ano em que veio Tartã a Asdode, enviando-o Sargão, rei da Assíria, e guerreou contra Asdode, e a tomou,
+
+[[v23-20-2]]
+
+^<<v23-20-2,2>>^ falou o SENHOR, pelo mesmo tempo, pelo ministério de Isaías, filho de Amoz, dizendo: Vai, solta o cilício de teus lombos e descalça os sapatos dos teus pés. E assim o fez, indo nu e descalço.
+
+[[v23-20-3]]
+
+^<<v23-20-3,3>>^ Então, disse o SENHOR: Assim como o meu servo Isaías andou três anos nu e descalço, por  sinal e prodígio sobre o Egito e sobre a Etiópia,
+
+[[v23-20-4]]
+
+^<<v23-20-4,4>>^ assim o rei da Assíria levará em cativeiro  os presos do Egito e os exilados da Etiópia, tanto moços como velhos, nus, e descalços, e com as nádegas descobertas, para  vergonha do Egito.
+
+[[v23-20-5]]
+
+^<<v23-20-5,5>>^ E assombrar-se-ão e envergonhar-se-ão, por causa dos etíopes, sua esperança, e dos egípcios, sua glória.
+
+[[v23-20-6]]
+
+^<<v23-20-6,6>>^ Então, dirão os moradores desta ilha, naquele dia: Vede que tal é a nossa esperança, aquilo que buscamos por socorro, para nos livrarmos da face do rei da Assíria! Como, pois, escaparemos nós?
+
+'''
+
+xref:023-isaias/023-isaias-019.adoc#v23-19-0[&#60; Capítulo Anterior] | <<v23-20-0,Topo>> | xref:023-isaias/023-isaias-021.adoc#v23-21-0[Próximo Capítulo &#62;]
