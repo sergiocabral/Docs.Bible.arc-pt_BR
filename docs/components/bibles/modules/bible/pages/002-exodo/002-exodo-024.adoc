@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v2-24-0]]
+=== Êxodo, 24
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v2-24-1]]
+
+^<<v2-24-1,1>>^ Depois, disse a Moisés: Sobe ao SENHOR, tu e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel; e inclinai-vos de longe.
+
+[[v2-24-2]]
+
+^<<v2-24-2,2>>^ E só Moisés se chegará ao SENHOR; mas eles não se cheguem, nem o povo suba com ele.
+
+[[v2-24-3]]
+
+^<<v2-24-3,3>>^ Vindo, pois, Moisés e contando ao povo todas as palavras do SENHOR e todos os estatutos, então, o povo respondeu a uma voz. E disseram: Todas as palavras que o SENHOR tem falado faremos.
+
+[[v2-24-4]]
+
+^<<v2-24-4,4>>^ E Moisés escreveu todas as palavras do SENHOR, e levantou-se pela manhã de madrugada, e edificou um altar ao pé do monte e doze monumentos, segundo as doze tribos de Israel;
+
+[[v2-24-5]]
+
+^<<v2-24-5,5>>^ e enviou certos jovens dos filhos de Israel, os quais ofereceram holocaustos e sacrificaram ao SENHOR sacrifícios pacíficos de bezerros.
+
+[[v2-24-6]]
+
+^<<v2-24-6,6>>^ E Moisés tomou a metade do sangue e a pôs em bacias; e a outra  metade do sangue espargiu sobre o altar.
+
+[[v2-24-7]]
+
+^<<v2-24-7,7>>^ E tomou o livro do concerto e o leu aos ouvidos do povo, e eles disseram: Tudo o que o SENHOR tem falado faremos e obedeceremos.
+
+[[v2-24-8]]
+
+^<<v2-24-8,8>>^ Então, tomou Moisés aquele sangue, e o  espargiu sobre o povo, e disse: Eis aqui o sangue do concerto que o SENHOR tem feito convosco sobre todas estas palavras.
+
+[[v2-24-9]]
+
+^<<v2-24-9,9>>^ E subiram Moisés e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel,
+
+[[v2-24-10]]
+
+^<<v2-24-10,10>>^ e viram o Deus de Israel, e debaixo de seus pés havia  como uma obra de pedra de safira e como o parecer do céu na sua  claridade.
+
+[[v2-24-11]]
+
+^<<v2-24-11,11>>^ Porém ele não estendeu a sua mão sobre os escolhidos dos filhos de Israel; mas viram a Deus, e comeram, e beberam.
+
+[[v2-24-12]]
+
+^<<v2-24-12,12>>^ Então, disse o SENHOR a Moisés: Sobe a mim, ao monte, e fica lá; e dar-te-ei tábuas de pedra, e a lei, e os mandamentos que tenho escrito, para os ensinares.
+
+[[v2-24-13]]
+
+^<<v2-24-13,13>>^ E levantou-se Moisés com Josué, seu servidor; e subiu Moisés o monte de Deus.
+
+[[v2-24-14]]
+
+^<<v2-24-14,14>>^ E disse aos anciãos: Esperai-nos aqui, até que tornemos a vós; e eis que Arão e Hur ficam  convosco; quem tiver algum  negócio se chegará a eles.
+
+[[v2-24-15]]
+
+^<<v2-24-15,15>>^ E, subindo Moisés o monte, a nuvem cobriu o monte.
+
+[[v2-24-16]]
+
+^<<v2-24-16,16>>^ E habitava a glória do SENHOR sobre o monte Sinai, e a nuvem o cobriu por seis dias; e, ao sétimo dia, chamou o SENHOR a Moisés do meio da nuvem.
+
+[[v2-24-17]]
+
+^<<v2-24-17,17>>^ E o aspecto da glória do Senhor era  como um fogo consumidor no cume do monte aos olhos dos filhos de Israel.
+
+[[v2-24-18]]
+
+^<<v2-24-18,18>>^ E Moisés entrou no meio da nuvem, depois que subiu o monte; e Moisés esteve no monte quarenta dias e quarenta noites.
+
+'''
+
+xref:002-exodo/002-exodo-023.adoc#v2-23-0[&#60; Capítulo Anterior] | <<v2-24-0,Topo>> | xref:002-exodo/002-exodo-025.adoc#v2-25-0[Próximo Capítulo &#62;]

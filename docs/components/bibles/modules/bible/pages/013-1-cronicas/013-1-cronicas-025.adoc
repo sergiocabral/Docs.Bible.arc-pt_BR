@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== 1 Crônicas, 25
+// arc ?, ARC - Almeida Revista e Corrigida
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ E Davi, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, e com alaúdes, e com saltérios; e este  foi o número dos homens aptos para a obra do seu ministério:
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ dos filhos de Asafe, Zacur, e José, e Netanias, e Asarela, filhos de Asafe, a cargo de Asafe, que profetizava debaixo da direção do rei Davi;
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ dos filhos de Jedutum, Gedalias, e Zeri, e Jesaías, e Hasabias, e Matitias, seis, a cargo de seu pai Jedutum, para tanger harpas, o qual profetizava, louvando e dando graças ao SENHOR;
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ dos filhos de Hemã, Buquias, e Matanias, e Uziel, e Sebuel, e Jerimote, e Hananias, e Hanani, e Eliata, e Gidalti, e Romanti-Ézer, e Josbecasa, e Maloti, e Hotir, e  Maaziote.
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Todos estes foram  filhos de Hemã, o vidente do rei nas palavras de Deus, para exaltar a corneta. Deus dera a Hemã catorze filhos e três filhas.
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos estes estavam  ao lado de seu pai para o canto da Casa do SENHOR, com saltérios, e alaúdes e harpas, para o ministério da Casa de Deus; e,  ao lado do rei, Asafe, e Jedutum, e Hemã.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ E era o número deles, juntamente com seus irmãos instruídos no canto do SENHOR, todos eles mestres, duzentos e oitenta e oito.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ E deitaram as sortes acerca da guarda igualmente, assim o pequeno como o grande, o mestre juntamente com o discípulo.
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ Saiu, pois, a primeira sorte a Asafe, a saber:  a José; a segunda, a Gedalias; e eram  ele, e seus irmãos, e seus filhos, ao todo, doze;
+
+[[v13-25-10]]
+
+^<<v13-25-10,10>>^ a terceira, a Zacur, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-11]]
+
+^<<v13-25-11,11>>^ a quarta, a Izri, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-12]]
+
+^<<v13-25-12,12>>^ a quinta, a Netanias, seus filhos, e seus irmãos, doze;
+
+[[v13-25-13]]
+
+^<<v13-25-13,13>>^ a sexta, a Buquias, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-14]]
+
+^<<v13-25-14,14>>^ a sétima, a Jesarela, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-15]]
+
+^<<v13-25-15,15>>^ a oitava, a Jesaías, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-16]]
+
+^<<v13-25-16,16>>^ a nona, a Matanias, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-17]]
+
+^<<v13-25-17,17>>^ a décima, a Simei, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-18]]
+
+^<<v13-25-18,18>>^ a undécima, a Azarel, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-19]]
+
+^<<v13-25-19,19>>^ a duodécima, a Hasabias, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-20]]
+
+^<<v13-25-20,20>>^ a décima terceira, a Subael, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-21]]
+
+^<<v13-25-21,21>>^ a décima quarta, a Matitias, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-22]]
+
+^<<v13-25-22,22>>^ a décima quinta, a Jerimote, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-23]]
+
+^<<v13-25-23,23>>^ a décima sexta, a Hananias, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-24]]
+
+^<<v13-25-24,24>>^ a décima sétima, a Josbecasa, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-25]]
+
+^<<v13-25-25,25>>^ a décima oitava, a Hanani, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-26]]
+
+^<<v13-25-26,26>>^ a décima nona, a Maloti, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-27]]
+
+^<<v13-25-27,27>>^ a vigésima, a Eliata, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-28]]
+
+^<<v13-25-28,28>>^ a vigésima primeira, a Hotir, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-29]]
+
+^<<v13-25-29,29>>^ a vigésima segunda, a Gidalti, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-30]]
+
+^<<v13-25-30,30>>^ a vigésima terceira, a Maaziote, e seus filhos, e seus irmãos, doze;
+
+[[v13-25-31]]
+
+^<<v13-25-31,31>>^ a vigésima quarta, a Romanti-Ézer, e seus filhos, e seus irmãos, doze.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]
